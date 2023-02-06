@@ -8,6 +8,8 @@ App Walk-though:
 <br/><br/>
 https://giphy.com/gifs/student-login-6hiEMhuF1BBcaejgp0
 
+<iframe src="https://giphy.com/embed/6hiEMhuF1BBcaejgp0" width="236" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/student-login-6hiEMhuF1BBcaejgp0">via GIPHY</a></p>
+
 <br/><br/>
 Required Features
 <br/><br/>[x]1. App displays an image of a school's logo
