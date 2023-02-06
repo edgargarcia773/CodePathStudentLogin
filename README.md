@@ -8,7 +8,7 @@ App Walk-though:
 <br/><br/>
 https://giphy.com/gifs/student-login-6hiEMhuF1BBcaejgp0
 
-<iframe src="https://giphy.com/embed/6hiEMhuF1BBcaejgp0" width="236" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/student-login-6hiEMhuF1BBcaejgp0">via GIPHY</a></p>
+![Student Login](https://user-images.githubusercontent.com/103807026/216899021-0d299012-0cb5-4916-b672-1c38bc3cf92a.gif)
 
 <br/><br/>
 Required Features
