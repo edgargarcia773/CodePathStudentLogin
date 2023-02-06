@@ -1,12 +1,11 @@
 App Description:
 <br/><br/>
 The application assists students with login in to portal. The user is able to enter information and add pets with a counter.
-<br/><br/>
 
 <br/><br/>
 App Walk-though:
 <br/><br/>
-https://giphy.com/gifs/student-login-6hiEMhuF1BBcaejgp0
+
 
 ![Student Login](https://user-images.githubusercontent.com/103807026/216899021-0d299012-0cb5-4916-b672-1c38bc3cf92a.gif)
 
